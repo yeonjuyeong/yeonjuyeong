@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-RED?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
 <div align="right">
