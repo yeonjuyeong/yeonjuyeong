@@ -20,11 +20,8 @@
 <img src="https://img.shields.io/badge/JSP-RED?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
-<div align="right">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonjuyeong&count_bg=%238E9194&title_bg=%23141514&icon=&icon_color=%231F1D1D&title=%EB%B0%A9%EB%AC%B8+%ED%9A%9F%EC%88%98&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
 
 
 
