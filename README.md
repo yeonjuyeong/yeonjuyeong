@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-RED?style=for-the-badge&logo=openjdk&logoColor=white">
 <img alt="MSSQL" src ="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img alt="MSSQL" src ="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white"/>
 </div>
   
 
