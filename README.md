@@ -5,6 +5,7 @@
 
 | 제목 | 설명 |
 | :-----------:| :-----------:|
+| 회사 | (주)시스너 |
 | 학교 | 성일정보고등학교(소프트웨어개발과) |
 | 이메일 | <a href="mailto:hwanje235@gmail.com">hwanje235@gmail.com</a> |
 | 한 줄 소개 | 코딩과 회계를 공부합니다. |
@@ -18,7 +19,7 @@
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-437291?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/JSP-RED?style=for-the-badge&logo=openjdk&logoColor=white">
-
+<img alt="MSSQL" src ="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </div>
   
 
